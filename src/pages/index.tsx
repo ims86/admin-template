@@ -1,4 +1,3 @@
-import { Children } from 'react';
 import Layout from '../components/template/Layout';
 
 export default function Home() {
